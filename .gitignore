@@ -1,0 +1,5 @@
+*.elc
+*.eln
+*-autoloads.el
+*~
+tests/x-result.txt
